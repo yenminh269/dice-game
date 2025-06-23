@@ -1,0 +1,36 @@
+body {
+    background-color: #39464c;
+}
+
+h1 {
+    font-family: "Lobster", sans-serif;
+    text-shadow: #2a3439 7px 0px;
+    font-weight: 400;
+    font-style: normal;
+    color: #1DCD9F;
+    font-size: 8rem;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.text, .container {
+    color: #1DCD9F;
+    font-family: "Edu NSW ACT Hand Pre", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.container {
+    margin: 50px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+footer{
+    color:white;
+    text-align: center;
+    margin-top: 90px;
+}
